@@ -1,0 +1,4 @@
+All Grounds need to be marked as Ground layer
+The main camera needs to be tagged as MainCamera
+All Players need to be marked as Player layer
+Munchy needs a child object which represents its tongue
